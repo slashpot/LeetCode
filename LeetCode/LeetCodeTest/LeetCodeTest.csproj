@@ -54,6 +54,7 @@
     </Otherwise>
   </Choose>
   <ItemGroup>
+    <Compile Include="ContainsDuplicateIIITest.cs" />
     <Compile Include="ContainsDuplicateIITest.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
